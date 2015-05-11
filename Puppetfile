@@ -6,5 +6,5 @@ mod "puppetlabs/ntp"
 
 # Modules from Github using various references
 mod 'notifyme',
-  :git => 'http://github.com/ncorrare/ncorrare-notifyme.git',
-  :ref => '30a3406bd0d5a9ec967ca0972348a407af59a18b'
+  :git => 'https://github.com/ncorrare/ncorrare-notifyme.git',
+  :ref => '3cbe6a9b6ae7e8a974f9963bb304f05e13141e2c'
